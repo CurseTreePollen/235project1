@@ -49,13 +49,10 @@ Sound:
 
 Mechanics:
 
-   This game will have basic WASD movement.
-   
-   Aiming/Ricochet: Wherever you point your gun, you'll be able to see its path as a red line. This line indicates any ricochet the bullet would make and if it would break anything. Bullets can bounce off of certain objects/walls, and go through/break others.
-   
-   Interaction: Some objects in the environment can be directly interacted with. Maybe it'll make noise, maybe you'll be able to carry or move it, or maybe it'll change the environment somehow.
-   
-   Sound: The TL;DR here would be "Something along the lines of Mark of the Ninja's sound system." In other words, shooting and other noisemaking actions would create a circle on-screen, representing the noise they made.  NPCs within the circle would hear the noise and react to it.  This can reveal your location, but it can also mislead NPCs and get them to move somewhere advantageous.
+   This game will have basic WASD movement.  
+   **Aiming/Ricochet**: Wherever you point your gun, you'll be able to see its path as a red line. This line indicates any ricochet the bullet would make and if it would break anything. Bullets can bounce off of certain objects/walls, and go through/break others.  
+   **Interaction**: Some objects in the environment can be directly interacted with. Maybe it'll make noise, maybe you'll be able to carry or move it, or maybe it'll change the environment somehow.  
+   **Sound**: The TL;DR here would be "Something along the lines of Mark of the Ninja's sound system." In other words, shooting and other noisemaking actions would create a circle on-screen, representing the noise they made.  NPCs within the circle would hear the noise and react to it.  This can reveal your location, but it can also mislead NPCs and get them to move somewhere advantageous.  
    
 Controls:
 
@@ -97,8 +94,16 @@ I am a little worried that I may have overscoped, but worst case scenario, I can
 As for the site, I used coolors.co to create a palette based on some colors I got from a color palette generator (returns the palettes of images it is given).  That palette ended up having some problems though, and had to get changed.  I think I found something that works now.
 
 ### Useful Sites
+* [HTML Validator](https://html5.validator.nu/)
+* [CSS Validator](https://jigsaw.w3.org/css-validator/)
+* [Color Palette Creator](https://coolors.co/)
+* [Color Palette Generator](http://www.cssdrive.com/imagepalette/index.php)
+* [w3schools.com (HTML Review)](https://www.w3schools.com/)
 
 ### Image Sources
+* [Home Page Image](https://fire-force.fandom.com/wiki/Ricochet_Control)
+* [Double-Up Image](https://www.youtube.com/watch?v=gZ4QiB-epAE)
+* Placeholder Game Image: My personal creation. I am truly a master artist.
 
 ### Current Palette
 ![Picture of the 5 colors used on this site]("media/c6532f-dddddd-483526-514d5e-891b13.png" "Picture of the 5 colors used on this site")
