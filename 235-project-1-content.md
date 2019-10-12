@@ -46,19 +46,25 @@ Sound:
   - Simple BGM, possibly just background chatter. Maybe some music too.
   - Also, noises are produced when hitting targets, firing guns, and interacting with certain objects.
 ### Gameplay
+
 Mechanics:
-  This game will have basic WASD movement.
-  Aiming/Ricochet: Wherever you point your gun, you'll be able to see its path as a red line. This line indicates any ricochet the bullet would make and if it would break anything. Bullets can bounce off of certain objects/walls, and go through/break others.
-  Interaction: Some objects in the environment can be directly interacted with. Maybe it'll make noise, maybe you'll be able to carry or move it, or maybe it'll change the environment somehow.
-  Sound: The TL;DR here would be "Something along the lines of Mark of the Ninja's sound system." In other words, shooting and other noisemaking actions would create a circle on-screen, representing the noise they made.  NPCs within the circle would hear the noise and react to it.  This can reveal your location, but it can also mislead NPCs and get them to move somewhere advantageous.
+
+   This game will have basic WASD movement.  
+   Aiming/Ricochet: Wherever you point your gun, you'll be able to see its path as a red line. This line indicates any ricochet the bullet would make and if it would break anything. Bullets can bounce off of certain objects/walls, and go through/break others.  
+   Interaction: Some objects in the environment can be directly interacted with. Maybe it'll make noise, maybe you'll be able to carry or move it, or maybe it'll change the environment somehow.  
+   Sound: The TL;DR here would be "Something along the lines of Mark of the Ninja's sound system." In other words, shooting and other noisemaking actions would create a circle on-screen, representing the noise they made.  NPCs within the circle would hear the noise and react to it.  This can reveal your location, but it can also mislead NPCs and get them to move somewhere advantageous.  
+   
 Controls:
-  Movement: WASD
-  Aiming: Mouse
-  Firing: Left Click/Spacebar
-  Interact: E
+
+   Movement: WASD  
+   Aiming: Mouse  
+   Firing: Left Click/Spacebar  
+   Interact: E  
+
 Teaching the Player:
-  For now, I was thinking of teaching the player naturally through the game, while also having little, unobtrusive pop-ups in the beginning to make sure they aren't struggling too much with learning the controls.
-  As for mechanics, I would probably introduce them safely and one at a time, and then expand on the mechanic and combine it with others.
+
+   For now, I was thinking of teaching the player naturally through the game, while also having little, unobtrusive pop-ups in the beginning to make sure they aren't struggling too much with learning the controls.  
+   As for mechanics, I would probably introduce them safely and one at a time, and then expand on the mechanic and combine it with others.  
 
 ### About the Dev
 Nice to meet ya! My name is Benjamin Vega, and I am a Game Design and Developement Sophomore at RIT.  This site is here is part of a project (and eventual real game) for one of my classes.
