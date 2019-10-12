@@ -99,7 +99,7 @@ As for the site, I used coolors.co to create a palette based on some colors I go
 * [Color Palette Creator](https://coolors.co/)
 * [Color Palette Generator](http://www.cssdrive.com/imagepalette/index.php)
 * [w3schools.com (HTML Review)](https://www.w3schools.com/)
-* [Context for What Mark of the Ninja is Like](https://www.klei.com/games/mark-ninja)
+* [Context for what Mark of the Ninja is Like](https://www.klei.com/games/mark-ninja)
 
 ### Image Sources
 * [Home Page Image](https://fire-force.fandom.com/wiki/Ricochet_Control)
