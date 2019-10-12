@@ -4,7 +4,7 @@
 
 ## Take Out Targets with Bouncing Bullets!
 
-A stealth/puzzle(?) game where you are in plain sight!  Sneakily dispatch targets with bouncing bullets and a few other tricks without arousing others' suspicions.  Gunshots and richochets will make noise though, so be careful!  That said, noise can also be useful in certain circumstances...
+A stealth/puzzle game where you are in plain sight!  Sneakily dispatch targets with bouncing bullets and a few other tricks without arousing others' suspicions.  Gunshots and richochets will make noise though, so be careful!  That said, noise can also be useful in certain circumstances...
 
 ### Links
 [Home Page](index.html)
@@ -25,7 +25,7 @@ A stealth/puzzle(?) game where you are in plain sight!  Sneakily dispatch target
 Sneakily bounce bullets to kill your targets (via bouncing bullets) without arousing the suspicions of those around you!  Take account of the noise your guns, surroundings, and ricochet make, and fulfill your mission!
 
 ### Genre
-Stealth/Puzzle(?) Game.
+Stealth/Puzzle Game. Each level is effectively a little puzzle where you have to figure out how use your bullets to take out your target.  If someone realizes you were behind the target's death, you will have to try the level again.
 
 ### Platform
 Desktop only for now, mobile friendly if time/skill allows.
@@ -45,6 +45,7 @@ Graphics
 Sound:
   - Simple BGM, possibly just background chatter. Maybe some music too.
   - Also, noises are produced when hitting targets, firing guns, and interacting with certain objects.
+  
 ### Gameplay
 
 Mechanics:
@@ -100,6 +101,7 @@ As for the site, I used coolors.co to create a palette based on some colors I go
 * [Color Palette Generator](http://www.cssdrive.com/imagepalette/index.php)
 * [w3schools.com (HTML Review)](https://www.w3schools.com/)
 * [Context for what Mark of the Ninja is Like](https://www.klei.com/games/mark-ninja)
+* [More context for Miss Fortune](https://na.leagueoflegends.com/en/site/bilgewater/#story-2-part-3). That said, my character idea has definitely deviated from her inspiration (even if it doesn't totally show in this little game), and is definitely a bit of a different beast now.
 
 ### Image Sources
 * [Home Page Image](https://fire-force.fandom.com/wiki/Ricochet_Control)
