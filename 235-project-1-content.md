@@ -1,6 +1,6 @@
 # Misdirection Landing Page
 
-![A bunch of ricocheting bullets]("media/Ricochet_control.png" "A bunch of ricocheting bullets")
+![A bunch of ricocheting bullets](/Ricochet_control.png "A bunch of ricocheting bullets")
 
 ## Take Out Targets with Bouncing Bullets!
 
@@ -19,7 +19,7 @@ A stealth/puzzle game where you are in plain sight!  Sneakily dispatch targets w
 
 # Game Treatment/Proposal
 
-![Simple drawing of Miss Fortune using Double Up]("media/doubleUp.png" "Simple drawing of Miss Fortune using Double Up")
+![Simple drawing of Miss Fortune using Double Up](/doubleUp.png "Simple drawing of Miss Fortune using Double Up")
 
 ### Concept
 Sneakily bounce bullets to kill your targets (via bouncing bullets) without arousing the suspicions of those around you!  Take account of the noise your guns, surroundings, and ricochet make, and fulfill your mission!
@@ -124,7 +124,7 @@ As for the site, I used coolors.co to create a palette based on some colors I go
 
 # Misdirection
 
-![Placeholder Image Representing the Game]("media/exampleMedia.png" "Placeholder Image Representing the Game")
+![Placeholder Image Representing the Game](/exampleMedia.png "Placeholder Image Representing the Game")
 
 ### Links
 [Home Page](index.html)
