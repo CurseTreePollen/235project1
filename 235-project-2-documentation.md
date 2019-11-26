@@ -1,0 +1,4 @@
+# Giphy Collector Documentation
+
+## Ideation
+
