@@ -68,7 +68,7 @@ All of the images are of my own creations.  The sounds on the other hand...
 * [manOuch.wav](https://freesound.org/people/Under7dude/sounds/163441/)
 
 ### Current Palette (Project 1)
-![Picture of the 5 colors used on this site]("/c6532f-dddddd-483526-514d5e-891b13.png" "Picture of the 5 colors used on this site")
+![Picture of the 5 colors used on this site](c6532f-dddddd-483526-514d5e-891b13.png "Picture of the 5 colors used on this site")
 
 ### Links
 [Home Page](index.html)
