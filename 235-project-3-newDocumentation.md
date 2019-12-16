@@ -36,8 +36,8 @@ Project 1
 * Placeholder Game Image: My personal creation. Beauty incarnate.
 
 Project 3
-All of the images are my own creations.  Sounds on the other hand...
-* [ricochet-woodAttrib.wav](https://freesound.org/people/CGEffex/sounds/96636/).  All files names are different from their originals.
+All of the images are of my own creations.  Sounds on the other hand...
+* [ricochet-woodAttrib.wav](https://freesound.org/people/CGEffex/sounds/96636/).  All 5 sound names are different from their originals.
 * [fireExplo.wav](https://freesound.org/people/HighPixel/sounds/431174/)
 * [gunshot.wav](https://freesound.org/people/Shades/sounds/37236/)
 * [hitsound.mp3](https://freesound.org/people/Raclure/sounds/458867/)
