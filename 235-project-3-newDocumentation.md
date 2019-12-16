@@ -10,7 +10,10 @@ I am a little worried that I may have overscoped, but worst case scenario, I can
 As for the site, I used coolors.co to create a palette based on some colors I got from a color palette generator (returns the palettes of images it is given).  That palette ended up having some problems though, and had to get changed.  I think I found something that works now.
 
 ## Process (Project 3)
-Well, in case you couldn't tell, what I have made is a LOT different from what I initially thought up.  I really wanted to make sure I did not overscope, especially after struggling with the last project, so I opted to go for a relatively simple SHMUP instead.
+
+NOTE: The documentation has been changed to look a little better than the version from Project 1.
+
+Well, in case you couldn't tell, what I have made is a LOT different from what I initially thought up.  I really wanted to make sure I did not overscope, so I opted to go for a relatively simple SHMUP instead.
 
 While I initially considered putting Miss Dir in the middle of the screen, and have the player strafe around enemies while hitting them with ricochets and blowing them up, I eventually came to the conclusion that this perspective seemed a bit too far away from my initial intention.
 
@@ -30,12 +33,12 @@ The next thing I did was add more enemy types, starting with the green and red e
 
 The next thing I did was replacing and resizing the assets. Not much to say here other than I only remembered to replace the cursor reticle about 3 hours before this was due.
 
-After this, all that was left was comment everything, improve some the ui (the text is much prettier now) and code, and center the game in my Project1 body.  I also decided to re-add the score to help encourage smartly ricocheting bullets over firing wildly.  That said, I hope I tuned it in a way that still encourages survival over optimization.
+After this, all that was left was comment everything, improve some of the UI (the text is much prettier now) and code, and center the game in my Project1 body.  I also decided to re-add the score to help encourage smartly ricocheting bullets over firing wildly.  That said, I hope I tuned it in a way that still encourages survival over optimization.
 
 I hope you enjoy my game, and have a good day.
 
 ### Useful Sites
-Project 1
+Project 1:
 * [HTML Validator](https://html5.validator.nu/)
 * [CSS Validator](https://jigsaw.w3.org/css-validator/)
 * [Color Palette Creator](https://coolors.co/)
@@ -44,19 +47,19 @@ Project 1
 * [Context for what Mark of the Ninja is Like](https://www.klei.com/games/mark-ninja)
 * [More context for Miss Fortune](https://na.leagueoflegends.com/en/site/bilgewater/#story-2-part-3). My idea has deviated from its inspiration (even if it doesn't totally show in this little game).
 
-Project 3
+Project 3:
 * [freesounds.org (Where I got my sounds)](https://freesound.org/)
 * [JS Validator](https://esprima.org/demo/validate.html)
 
 ### Image Sources
-Project 1
+Project 1:
 * [Home Page Image](https://fire-force.fandom.com/wiki/Ricochet_Control)
 * [Double-Up Image](https://www.youtube.com/watch?v=gZ4QiB-epAE)
 * Placeholder Game Image: My personal creation. Beauty incarnate.
 
-Project 3
+Project 3:
 
-All of the images are of my own creations.  Sounds on the other hand...
+All of the images are of my own creations.  The sounds on the other hand...
 * [ricochet-woodAttrib.wav](https://freesound.org/people/CGEffex/sounds/96636/).  All 5 sound names are different from their originals.
 * The above is by CGEffex and licensed under the Creative Commons attribution license.
 * [fireExplo.wav](https://freesound.org/people/HighPixel/sounds/431174/)
