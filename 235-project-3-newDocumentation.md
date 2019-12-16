@@ -55,6 +55,7 @@ Project 1
 * Placeholder Game Image: My personal creation. Beauty incarnate.
 
 Project 3
+
 All of the images are of my own creations.  Sounds on the other hand...
 * [ricochet-woodAttrib.wav](https://freesound.org/people/CGEffex/sounds/96636/).  All 5 sound names are different from their originals.
 * The above is by CGEffex and licensed under the Creative Commons attribution license.
