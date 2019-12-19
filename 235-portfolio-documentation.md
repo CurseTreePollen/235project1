@@ -9,6 +9,6 @@
 * [w3docs](https://www.w3docs.com/)
 * [Stack Overflow](https://stackoverflow.com/)
 
-## Images
+## Images and Sources
 All of the images are my own and are from projects I worked on.
 The code is mine too, though I think I learned the overhead thing from a website.  I admittedly do not remember which site this would be, as I made that change quite a while ago.
