@@ -1,5 +1,5 @@
 # My Portfolio
-(Bus Troubles, need to finish writing, will finish before morning)
+(Just About Done?)
 
 ## Creation
 Before I really started working on the portfolio, I looked at a couple of the examples given.
@@ -12,10 +12,13 @@ I also made my site red for some godawful reason.  I have no idea what the hell 
 
 Before that though, I messed around with the flex, put the projects in spans, and found out about .overhead so the headers would not have an unreasonably long line beneath them.
 
-When I finally got back to the project, I finished up my contact info and, as I mentioned, changed the color scheme and removed the intro section.  I also added a link to the top of the page, and put in a Twitter button.
+When I finally got back to the project, I finished up my contact info and, as I mentioned, changed the color scheme and removed the intro section.  I also added a link to the top of the page, put in a Twitter button, and updated/attached my resume.
 
 I also messed around with my formatting a little.  I messed with the My Work section by adding a 3rd project (Project 3) and by giving the descriptions their own spans (The initial plan was to put them under the images but in the same span).
+
 On the note of the images, I replaced and resized them to better fit the layout.  I also messed with them to make sure they would stay in the spans.
+
+All I did from there was fill everything out.  I talked about who I am and who I want to be, and I explained what my projects were and what my roles involved.
 
 ## Useful Sites
 * [w3schools](https://www.w3schools.com/)
