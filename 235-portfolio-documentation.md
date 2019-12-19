@@ -1,3 +1,3 @@
 # Portfolio
 
-aaa
+Bus Troubles, need to finish writing.
