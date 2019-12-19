@@ -1,3 +1,3 @@
 # Portfolio
 
-Bus Troubles, need to finish writing.
+Bus Troubles, need to finish writing, will finish before morning.
