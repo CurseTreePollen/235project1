@@ -1,7 +1,7 @@
 # My Portfolio
 (Done Now)
 
-## Creation
+## Creation Process
 Before I really started working on the portfolio, I looked at a couple of the examples given.
 I really liked the vertical designs, so I started off by making a navbar and id sections.
 
