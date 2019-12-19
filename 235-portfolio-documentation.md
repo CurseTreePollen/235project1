@@ -1,5 +1,5 @@
 # My Portfolio
-(Just About Done?)
+(Done Now)
 
 ## Creation
 Before I really started working on the portfolio, I looked at a couple of the examples given.
@@ -26,7 +26,7 @@ All I did from there was fill everything out.  I talked about who I am and who I
 * [Stack Overflow](https://stackoverflow.com/)
 
 ## Images and Sources
-All of the images are my own and are from projects I worked on.
+All of the images are my own and are from projects I worked on.  The art in the shooting star pic is not my own though, and was made by a classmate.  May want to add that to the portfolio after this is all graded.
 The code is mine too, though I think I learned the overhead thing from a website.  I admittedly do not remember which site this would be, as I made that change quite a while ago.
 
 ## Above and Beyond
